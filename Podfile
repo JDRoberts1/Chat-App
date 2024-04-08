@@ -4,6 +4,7 @@ platform :ios, '17.0'
 target 'Chat-App' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
+  
 
   # Pods for Chat-App
 pod 'Firebase/Firestore'
